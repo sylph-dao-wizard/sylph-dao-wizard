@@ -6,8 +6,8 @@
 
 ---
 
-- **Sylph DAO**: [GitHub](https://github.com/sylph-dao), [Website](https://sylph.finance), [Contact](mailto:dao@sylph.box)  
-- **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
-- **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
-- **Lochner Tech Archive**: [GitHub](https://github.com/lochner-tech-arc)  
-- **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com) (eCommerce / Logistics), [Contact](mailto:support@fayra.com)  
+- <img src="https://avatars.githubusercontent.com/u/1234567?s=40&v=4" alt="Sylph DAO" width="20"> **Sylph DAO**: [GitHub](https://github.com/sylph-dao), [Website](https://sylph.finance), [Contact](mailto:dao@sylph.box)  
+- <img src="https://avatars.githubusercontent.com/u/2345678?s=40&v=4" alt="Sylph DAO Archive" width="20"> **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
+- <img src="https://avatars.githubusercontent.com/u/3456789?s=40&v=4" alt="Lochner Tech" width="20"> **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
+- <img src="https://avatars.githubusercontent.com/u/4567890?s=40&v=4" alt="Lochner Tech Archive" width="20"> **Lochner Tech Archive**: [GitHub](https://github.com/lochner-tech-arc)  
+- <img src="https://avatars.githubusercontent.com/u/5678901?s=40&v=4" alt="FayRa" width="20"> **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com) (eCommerce / Logistics), [Contact](mailto:support@fayra.com)  
