@@ -14,7 +14,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/193456537?s=64&v=4" alt="Lochner Tech Archive" width="30"> &nbsp; **Lochner Tech Archive**: [GitHub](https://github.com/lochner-arc)  
 
-<img src="https://avatars.githubusercontent.com/u/185224928?s=64&v=4" alt="FayRa" width="30"> &nbsp; **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com)<!--(eCommerce / Logistics)-->, [Contact](mailto:support@fayra.com)  
+<img src="https://avatars.githubusercontent.com/u/185224928?s=64&v=4" alt="FayRa" width="30"> &nbsp; **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com)<!--(eCommerce / Logistics)-->, [Contact](mailto:support@fayra.com), [eBay](https://www.ebay.com/str/fayralogistics), [Amazon](https://www.amazon.com/s?me=A2S0WRQSGW04UB)  
 
 <!-- Faystation -->
 
