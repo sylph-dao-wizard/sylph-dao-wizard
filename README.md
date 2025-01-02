@@ -6,8 +6,12 @@
 
 ---
 
-- <img src="https://avatars.githubusercontent.com/u/193454712?s=64&v=4" alt="Sylph DAO" width="30" style="vertical-align: middle;"> **Sylph DAO**: [GitHub](https://github.com/sylph-dao), [Website](https://sylph.finance), [Contact](mailto:dao@sylph.box)  
-- <img src="https://avatars.githubusercontent.com/u/193454158?s=64&v=4" alt="Sylph DAO Archive" width="30" style="vertical-align: middle;"> **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
-- <img src="https://avatars.githubusercontent.com/u/193160066?s=64&v=4" alt="Lochner Tech" width="30" style="vertical-align: middle;"> **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
-- <img src="https://avatars.githubusercontent.com/u/193456537?s=64&v=4" alt="Lochner Tech Archive" width="30" style="vertical-align: middle;"> **Lochner Tech Archive**: [GitHub](https://github.com/lochner-tech-arc)  
-- <img src="https://avatars.githubusercontent.com/u/185224928?s=64&v=4" alt="FayRa" width="30" style="vertical-align: middle;"> **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com) (eCommerce / Logistics), [Contact](mailto:support@fayra.com)  
+<img src="https://avatars.githubusercontent.com/u/193454712?s=64&v=4" alt="Sylph DAO" width="30"> &nbsp; **Sylph DAO**: [GitHub](https://github.com/sylph-dao), [Website](https://sylph.finance), [Contact](mailto:dao@sylph.box)
+
+<img src="https://avatars.githubusercontent.com/u/193454158?s=64&v=4" alt="Sylph DAO Archive" width="30"> &nbsp; **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
+
+<img src="https://avatars.githubusercontent.com/u/193160066?s=64&v=4" alt="Lochner Tech" width="30"> &nbsp; **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
+
+<img src="https://avatars.githubusercontent.com/u/193456537?s=64&v=4" alt="Lochner Tech Archive" width="30"> &nbsp; **Lochner Tech Archive**: [GitHub](https://github.com/lochner-tech-arc)  
+
+<img src="https://avatars.githubusercontent.com/u/185224928?s=64&v=4" alt="FayRa" width="30"> &nbsp; **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com)<!--(eCommerce / Logistics)-->, [Contact](mailto:support@fayra.com)  
