@@ -10,7 +10,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/193454158?s=64&v=4" alt="Sylph DAO Archive" width="30"> &nbsp; **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
 
-<img src="https://avatars.githubusercontent.com/u/193160066?s=64&v=4" alt="Lochner Tech" width="30"> &nbsp; **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
+<img src="https://avatars.githubusercontent.com/u/193160066?s=64&v=4" alt="Lochner Tech" width="30"> &nbsp; **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech), [Contact](mailto:dev@lochner.tech)
 
 <img src="https://avatars.githubusercontent.com/u/193456537?s=64&v=4" alt="Lochner Tech Archive" width="30"> &nbsp; **Lochner Tech Archive**: [GitHub](https://github.com/lochner-arc)  
 
