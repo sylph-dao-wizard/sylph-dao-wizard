@@ -8,6 +8,6 @@
 
 - **Sylph DAO**: [GitHub](https://github.com/sylph-dao), [Website](https://sylph.finance), [Contact](mailto:dao@sylph.box)  
 - **Sylph DAO Archive**: [GitHub](https://github.com/sylph-dao-arc)  
-- **Lochner Tech**: [GitHub](https://github.com/lochner-tech)  
+- **Lochner Tech**: [GitHub](https://github.com/lochner-tech), [Website](https://lochner.tech)  
 - **Lochner Tech Archive**: [GitHub](https://github.com/lochner-tech-arc)  
-- **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com) (eCommerce / Logistics)
+- **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com) (eCommerce / Logistics), [Contact](mailto:support@fayra.com)  
